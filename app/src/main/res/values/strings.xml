@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Firebase Trial Two</string>
+    <string name="signout">signout</string>
+</resources>
